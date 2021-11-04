@@ -15,6 +15,9 @@ function App() {
       <Navbar/>
       <Navbar/>
       <Splash/>
+      <Splash/>
+      <Splash/>
+      <Splash/>
       <Photos/>
       <Descriptions/>
     </div>
