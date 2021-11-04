@@ -12,7 +12,7 @@ function Navbar() {
       <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
       <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
         <li className="nav-item active">
-        <a className="nav-link" href="/">Home <span className="sr-only">(current)</span></a>
+        <a className="nav-link" href="https://www.google.com/?&bih=937&biw=1920&rlz=1C1GCEU_enUS971US971&hl=en&safe=active&ssui=on">Home <span className="sr-only">(current)</span></a>
         </li>
         <li className="nav-item">
         <a className="nav-link" href="/">Post</a>
