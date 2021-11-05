@@ -18,6 +18,10 @@ function App() {
       <Splash/>
       <Splash/>
       <Splash/>
+      <Splash/>
+      <Splash/>
+      <Splash/>
+      <Splash/>
       <Photos/>
       <Descriptions/>
     </div>
